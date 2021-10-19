@@ -20,3 +20,7 @@ export default {
   components: { HeaderBarBrand, HeaderBarLinks },
 };
 </script>
+
+<style lang="scss" scoped>
+
+</style>

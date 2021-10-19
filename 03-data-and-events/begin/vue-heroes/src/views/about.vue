@@ -5,7 +5,7 @@
       <p>here are some helpful resources for this project.</p>
       <p>
         by
-        <a href="http://twitter.com/john_papa">John Papa</a>
+        <a href="http://twitter.com/john_papa">John Papa1</a>
       </p>
       <br />
       <h3 class="title sub-title">Source Code</h3>
